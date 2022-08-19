@@ -1,3 +1,5 @@
+<section style="font-family: time new roman; font-size: 14px; color:blue;">
+
 My Name is Md Nazmul haque. I am a WordPress developer with with PHP Programming, Custom theme development, Custom plugin development and Server management experience.
 <hr>
 <b>Education Qualifications: </b> <br>
@@ -79,3 +81,5 @@ BootStrap Framework <br> </p>
 <br>https://bulletprooftraders.com (Elementor Pro based design many custom plugin developed by me)
 
 <br>https://abekstore.com (Full website created by me With WooCommerce too)
+  
+ </section>
