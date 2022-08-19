@@ -1,30 +1,29 @@
-I am a Full stack WordPress developer with amazing PHP programming & Server
-management Experience.
-
-<b>Education<b><hr>
+My Name is Md Nazmul haque. I am a WordPress developer with with PHP Programming, Custom theme development, Custom plugin development and Server management experience.
+<hr>
+<b>Education<b>
 I have completed my graduation in Computer Science and engineering (CSE)
 from Varendra University, Rajshahi, Bangladesh.
 
 
-B a s i c S k i l ls a n d E x p e r i e n c e s:
+<b>B a s i c S k i l ls a n d E x p e r i e n c e s:<b><br>
 
-PHP Programming with object oriented programs.
-HyperText Markup Language (HTML)
-Cascading Style Sheets (CSS)
-JavaScript Programming (JS)
-Adobe Photoshop
-WordPress CMS
-BootStrap Framework
+PHP Programming with object oriented programs. <br>
+HyperText Markup Language (HTML) <br>
+Cascading Style Sheets (CSS) <br>
+JavaScript Programming (JS) <br>
+Adobe Photoshop <br>
+WordPress CMS <br>
+BootStrap Framework <br>
 
-D e s i g n S k i l ls a n d E x p e r i e n c e s:
+<b>D e s i g n S k i l ls a n d E x p e r i e n c e s: <b>
 
-PSD to HTML Design.
-Responsive web template design.
-Landing page or sales page design.
-WordPress Drag & drop page builder based design.
-Email/ Newsletter template design.
-Pixel perfect design from Figma ,Adobe XD, Moqups, Webflow.
-WooCommerce Product, custom page template design.
+<br>PSD to HTML Design.
+<br>Responsive web template design.
+<br>Landing page or sales page design.
+<br>WordPress Drag & drop page builder based design.
+<br>Email/ Newsletter template design.
+<br>Pixel perfect design from Figma ,Adobe XD, Moqups, Webflow.
+<br>WooCommerce Product, custom page template design.
 
 D e v e l o p m e n t S k i l ls a n d E x p e r i e n c e s
 
