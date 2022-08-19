@@ -1,7 +1,7 @@
 I am a Full stack WordPress developer with amazing PHP programming & Server
 management Experience.
 
-E d u c a n t i o:
+<b>Education<b><hr>
 I have completed my graduation in Computer Science and engineering (CSE)
 from Varendra University, Rajshahi, Bangladesh.
 
