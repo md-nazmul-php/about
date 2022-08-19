@@ -1,29 +1,30 @@
 My Name is Md Nazmul haque. I am a WordPress developer with with PHP Programming, Custom theme development, Custom plugin development and Server management experience.
 <hr>
-<b>Education<b>
+<b>Education<b> <br>
+<p>
 I have completed my graduation in Computer Science and engineering (CSE)
-from Varendra University, Rajshahi, Bangladesh.
+from Varendra University, Rajshahi, Bangladesh. <p>
 
 
 <b>B a s i c S k i l ls a n d E x p e r i e n c e s:<b><br>
-
+<p>
 PHP Programming with object oriented programs. <br>
 HyperText Markup Language (HTML) <br>
 Cascading Style Sheets (CSS) <br>
 JavaScript Programming (JS) <br>
 Adobe Photoshop <br>
 WordPress CMS <br>
-BootStrap Framework <br>
+BootStrap Framework <br> </p>
 
 <b>D e s i g n S k i l ls a n d E x p e r i e n c e s: <b>
 
-<br>PSD to HTML Design.
+<p><br>PSD to HTML Design.
 <br>Responsive web template design.
 <br>Landing page or sales page design.
 <br>WordPress Drag & drop page builder based design.
 <br>Email/ Newsletter template design.
 <br>Pixel perfect design from Figma ,Adobe XD, Moqups, Webflow.
-<br>WooCommerce Product, custom page template design.
+<br>WooCommerce Product, custom page template design. </p>
 
 D e v e l o p m e n t S k i l ls a n d E x p e r i e n c e s
 
