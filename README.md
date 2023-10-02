@@ -74,12 +74,7 @@ BootStrap Framework <br> </p>
 
 
 <b>Recent Works:</b>
-<br>https://phpbd.tech (Static design)
 
 <br>https://tradingfundclub.com (Full website creation with ACF based custom theme)
 
-<br>https://bulletprooftraders.com (Elementor Pro based design many custom plugin developed by me)
-
-<br>https://abekstore.com (Full website created by me With WooCommerce too)
-  
  </section>
